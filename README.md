@@ -17,7 +17,6 @@ We compliment the Rule 605 and 606 data with CRSP data available Wharton Researc
 | 605 data     | 605_data.csv   | data/    | TRUE            |
 | 606 data     | 606_data.csv   | data/    | TRUE            |
 | crsp         |                |          | FALSE           |
-|              |                |          |                 |
 
 Below is a list of the data files and definitions of variables within the files.
 
@@ -100,4 +99,3 @@ To replicate the results in the paper the replicator first needs to collect the 
 | Table 6        | T6.sas             |             | SAS Output            |
 | Table 7        | T7.sas             |             | SAS Output            |
 | Table 8        | T8.sas             |             | SAS Output            |
-|                |                    |             |                       |
